@@ -203,8 +203,8 @@ Advanced anomaly detection in vitals
 
 ## 👥 Contributors
 
-# Project Lead: Phoenixphones
-Clinical AI Lead: Phoenixphones
+# Team Name: Phoenixphones
+Clinical AI Lead: Phoenixphones teams 
 
 Member Name: 
 
